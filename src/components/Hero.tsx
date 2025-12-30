@@ -176,7 +176,7 @@ export default function Hero() {
                   <p className="text-emerald-600 dark:text-emerald-400 font-black text-3xl leading-none">BHSc</p>
                   <p className={`text-[11px] font-black uppercase tracking-[0.2em] mt-1 ${isDark ? 'text-white' : 'text-emerald-950'}`}>Graduate Student</p>
                   <div className="absolute -top-3 -right-3 bg-yellow-400 p-1.5 rounded-full shadow-lg">
-                    <Sparkles className="text-white w-4 h-4" />
+                   
                   </div>
                 </div>
               </div>
